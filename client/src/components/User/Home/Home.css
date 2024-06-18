@@ -1,0 +1,15 @@
+.home{
+    border: 1px solid rgb(203, 201, 199);
+    padding: 20px;
+    width: 450px;
+    height: 300px;
+}
+.btns{
+    padding: 20px;
+}
+button{
+    margin: 10px;
+}
+h1{
+    color: rgb(198, 28, 91);
+}

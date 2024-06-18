@@ -1,0 +1,32 @@
+.card-title{
+    display: flex;
+    justify-content: left;
+}
+.adduser{
+    background-color: rgb(33, 93, 114);
+    width: 8rem;
+}
+.btnrow{
+    display: flex;
+    justify-content: right;
+}
+.userlist{
+    width: 900px;
+}
+.logout{
+    width: 8rem;
+    color: rgb(33, 93, 114);
+    background-color: white;
+    border: 1px solid rgb(33, 93, 114);
+}
+.outer-div{
+    width: 100%;
+}
+.logout:hover {
+    background-color: #ec5e99;
+}
+.adduser:hover{
+    background-color: white;
+    border: 1px solid rgb(33, 93, 114);
+    color: rgb(33, 93, 114);
+}
